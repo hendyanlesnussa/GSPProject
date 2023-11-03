@@ -1447,7 +1447,7 @@ section {
 #  Section
 --------------------------------------------------------------*/
 .hero {
-  background: url('../assets/img/GSLawOffice.png') center center no-repeat;
+  background: url('../img/GSLawOffice.png') center center no-repeat;
   width: 100%;
   margin-top: 90px;
   height: 95vh;
